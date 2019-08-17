@@ -1,4 +1,4 @@
-Visualizing of Earthquake Data in the last Month
+Visualization of Earthquake Data in the last Month
 
 ![2-BasicMap](Images/Earthquakes.png)
 
